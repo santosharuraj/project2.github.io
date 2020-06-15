@@ -201,6 +201,7 @@ and is wrapped around the whole page content, except for the footer in this exam
       </div>
     </div>
   </div>
+  </div>
   <hr>
 
   <!-- Blog entry -->
